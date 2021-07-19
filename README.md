@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maverick-satya
+- 👋 Hi, I’m Satish
 - 👀 I’m interested in Robotics, ROS
 - 🌱 I’m currently learning Robotics and ROS
 - 💞️ I’m looking to collaborate on Robotic sensor integration and seam tracking  
